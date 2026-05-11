@@ -22,7 +22,12 @@ The Python code uses gpiozero Button and LED classes.
 The button controls the LED state.
 
 ## RPI working
-https://github.com/user-attachments/assets/1e540773-3b8f-45f2-8224-5286f66fadbd
+
+
+
+https://github.com/user-attachments/assets/f47a4ad2-7d9a-499b-b7f9-ff5059aeb9da
+
+
 <img width="1980" height="3520" alt="KakaoTalk_20260505_162845319_02" src="https://github.com/user-attachments/assets/7547ce64-85cc-4f57-96e8-a83efc0ee105" />
 <img width="1980" height="3520" alt="KakaoTalk_20260505_162845319_03" src="https://github.com/user-attachments/assets/59a14ef7-f637-4d7c-a178-c836cf006569" />
 
